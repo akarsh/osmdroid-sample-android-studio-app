@@ -1,0 +1,2540 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8.4">
+	<node id="-30518" lat="52.5263264" lon="13.3137841" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-30522" lat="52.5262781" lon="13.3138204" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-30636" lat="52.5263757" lon="13.3140492" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-30794" lat="52.526393" lon="13.3139029" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-30830" lat="52.526376" lon="13.3137865" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-30852" lat="52.5263284" lon="13.3138498" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-30938" lat="52.5263963" lon="13.3139628" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-30962" lat="52.5262858" lon="13.3138226" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-30980" lat="52.5263971" lon="13.313944" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-31012" lat="52.5264101" lon="13.3140413" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-31014" lat="52.5263331" lon="13.3140249" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-31036" lat="52.526383" lon="13.3138389" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-31076" lat="52.5263776" lon="13.3137878" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-31088" lat="52.526387" lon="13.3138578" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-31134" lat="52.5263786" lon="13.313806" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-31228" lat="52.5263945" lon="13.3139245" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-31264" lat="52.5264041" lon="13.3140211" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-31316" lat="52.5263158" lon="13.3137754" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-31318" lat="52.5263833" lon="13.3138655" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-31332" lat="52.5263373" lon="13.314056" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-31360" lat="52.5264026" lon="13.3139746" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-31386" lat="52.5263544" lon="13.3140499" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-31388" lat="52.5263729" lon="13.3137876" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-31412" lat="52.5263249" lon="13.3139637" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-31414" lat="52.5263247" lon="13.3139531" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-31458" lat="52.526282" lon="13.314059" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-31468" lat="52.5262781" lon="13.3140055" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-31470" lat="52.5262775" lon="13.3140013" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-31530" lat="52.5263908" lon="13.3138972" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-31538" lat="52.5262801" lon="13.3140207" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-31574" lat="52.5263424" lon="13.3139604" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-31608" lat="52.5263906" lon="13.3138851" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-31628" lat="52.5263205" lon="13.3137956" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-31632" lat="52.5264" lon="13.3139551" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-31644" lat="52.5262802" lon="13.3140455" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-31646" lat="52.5262833" lon="13.3140444" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-31658" lat="52.5263149" lon="13.3138887" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-31664" lat="52.5263827" lon="13.3138612" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-31686" lat="52.5262972" lon="13.3137788" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-31732" lat="52.5263778" lon="13.3137999" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-31756" lat="52.5262839" lon="13.31381" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-31760" lat="52.5263269" lon="13.3139782" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-31796" lat="52.5263147" lon="13.3138873" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-31820" lat="52.526342" lon="13.3139575" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-31822" lat="52.5263932" lon="13.3139391" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-31826" lat="52.5263911" lon="13.3139238" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-31832" lat="52.5262755" lon="13.313986" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-31858" lat="52.5264114" lon="13.3140408" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-31862" lat="52.5263046" lon="13.3138113" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-31864" lat="52.5263048" lon="13.3138123" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-31870" lat="52.5263775" lon="13.3138223" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-31896" lat="52.5264036" lon="13.3140169" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-31922" lat="52.5263934" lon="13.3139167" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-31930" lat="52.5262768" lon="13.3140201" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-31948" lat="52.5264078" lon="13.3140135" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-31950" lat="52.5263807" lon="13.313846" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-31964" lat="52.5263217" lon="13.3139392" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-31974" lat="52.526388" lon="13.3139001" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-32004" lat="52.5263882" lon="13.3138778" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-32006" lat="52.5263893" lon="13.3138856" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-32030" lat="52.526401" lon="13.3139629" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-32032" lat="52.5263997" lon="13.3139634" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-32042" lat="52.5263088" lon="13.3138433" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-32048" lat="52.5263155" lon="13.313774" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-32074" lat="52.5263333" lon="13.313885" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-32076" lat="52.5263323" lon="13.313878" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-32094" lat="52.5263057" lon="13.3138118" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-32104" lat="52.5263165" lon="13.3137824" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-32108" lat="52.5263984" lon="13.3139435" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-32162" lat="52.5263828" lon="13.3138267" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-32164" lat="52.5263815" lon="13.3138272" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-32182" lat="52.5262812" lon="13.3138023" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-32184" lat="52.5263444" lon="13.3139611" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-32186" lat="52.5263472" lon="13.3139819" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-32218" lat="52.526409" lon="13.3140335" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-32222" lat="52.5263501" lon="13.3140106" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-32300" lat="52.5263838" lon="13.3138449" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-32318" lat="52.5263426" lon="13.3139618" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-32328" lat="52.5264073" lon="13.31402" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-32362" lat="52.5264119" lon="13.3140547" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-32388" lat="52.5264036" lon="13.3139824" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-32392" lat="52.5263763" lon="13.3137883" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-32506" lat="52.5263553" lon="13.3140496" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-32542" lat="52.5263019" lon="13.3137993" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-32550" lat="52.5263416" lon="13.313947" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-32580" lat="52.5263963" lon="13.3139379" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-32606" lat="52.5263789" lon="13.3138077" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-32686" lat="52.5264062" lon="13.3140364" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-32692" lat="52.5263829" lon="13.3138626" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-32726" lat="52.5263958" lon="13.313924" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-32734" lat="52.5262765" lon="13.3140283" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-32770" lat="52.5263781" lon="13.3138265" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-32772" lat="52.5263801" lon="13.3138418" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-32792" lat="52.526401" lon="13.3139974" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-32822" lat="52.5264117" lon="13.3140529" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-32850" lat="52.5264052" lon="13.3139941" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-32874" lat="52.5263388" lon="13.3139331" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-32876" lat="52.5263396" lon="13.3139327" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-32892" lat="52.5263867" lon="13.3138661" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-32932" lat="52.5263107" lon="13.3138576" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-32968" lat="52.5263266" lon="13.3138354" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-32980" lat="52.5263802" lon="13.3138072" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-32986" lat="52.5263531" lon="13.3140336" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-32988" lat="52.5263541" lon="13.3140407" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-33002" lat="52.5264039" lon="13.3140197" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-33018" lat="52.5263266" lon="13.3139676" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-33020" lat="52.526326" lon="13.3139633" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-33144" lat="52.52628" lon="13.3138015" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-33224" lat="52.5263922" lon="13.3138968" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-33226" lat="52.5263932" lon="13.3139045" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-33232" lat="52.5262754" lon="13.3140206" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-33268" lat="52.5264046" lon="13.3140006" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-33270" lat="52.5264015" lon="13.3140017" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-33302" lat="52.5263225" lon="13.3138045" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-33330" lat="52.5263173" lon="13.3137819" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-33334" lat="52.5263984" lon="13.313978" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-33344" lat="52.5262807" lon="13.314025" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-33346" lat="52.5262827" lon="13.3140402" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-33382" lat="52.5263859" lon="13.3138601" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-33422" lat="52.5263027" lon="13.3137988" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-33446" lat="52.5263151" lon="13.3137723" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-33448" lat="52.5263143" lon="13.3137728" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-33452" lat="52.526396" lon="13.3139362" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-33488" lat="52.5263791" lon="13.3137995" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-33524" lat="52.5262809" lon="13.3138009" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-33530" lat="52.5263299" lon="13.3139921" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-33534" lat="52.5262791" lon="13.3140478" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-33578" lat="52.5263758" lon="13.3137733" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-33616" lat="52.5263055" lon="13.3138108" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-33660" lat="52.5263492" lon="13.3140109" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-33698" lat="52.5263948" lon="13.3139162" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-33720" lat="52.5264023" lon="13.3139829" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-33722" lat="52.5263856" lon="13.3138583" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-33754" lat="52.5264062" lon="13.3140019" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-33784" lat="52.5263885" lon="13.3138796" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-33786" lat="52.5263853" lon="13.3138807" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-33812" lat="52.5263989" lon="13.3139822" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-33880" lat="52.5263368" lon="13.3138764" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-33882" lat="52.5263377" lon="13.3138834" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-33914" lat="52.5263937" lon="13.3139433" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-33948" lat="52.5263817" lon="13.3138189" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-34022" lat="52.5264067" lon="13.3140406" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-34030" lat="52.5263452" lon="13.3139812" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-34044" lat="52.5263747" lon="13.313774" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-34092" lat="52.5263833" lon="13.3138406" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-34112" lat="52.5263118" lon="13.3138572" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-34130" lat="52.5264075" lon="13.3140218" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-34170" lat="52.5262969" lon="13.3137774" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-34198" lat="52.5264012" lon="13.3139751" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-34278" lat="52.5263196" lon="13.3137961" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-34280" lat="52.5263989" lon="13.3139574" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-34282" lat="52.5263958" lon="13.3139585" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-34338" lat="52.526352" lon="13.3140249" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-34380" lat="52.5263968" lon="13.3139422" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-34406" lat="52.5263227" lon="13.3138052" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-34446" lat="52.5262803" lon="13.3138028" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-34472" lat="52.5264104" lon="13.314033" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-34480" lat="52.5263288" lon="13.3139925" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-34498" lat="52.5263759" lon="13.3137755" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-34500" lat="52.5263762" lon="13.3137754" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-34518" lat="52.5263919" lon="13.313905" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-34548" lat="52.5262867" lon="13.3138221" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-34550" lat="52.5262869" lon="13.3138231" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-34556" lat="52.5263854" lon="13.3138462" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-34558" lat="52.5263844" lon="13.3138384" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-34618" lat="52.5263906" lon="13.3139196" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-34620" lat="52.5263885" lon="13.3139044" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-34658" lat="52.5262796" lon="13.3140413" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-34670" lat="52.526388" lon="13.3138656" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-34768" lat="52.5264038" lon="13.3140183" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-34770" lat="52.526358" lon="13.3140349" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-34784" lat="52.5262831" lon="13.3138106" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-34834" lat="52.5263063" lon="13.3138145" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-34848" lat="52.5263812" lon="13.3138254" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-34870" lat="52.5264088" lon="13.3140558" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-34876" lat="52.5263267" lon="13.3138017" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-34878" lat="52.5263712" lon="13.313775" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-34952" lat="52.5262762" lon="13.3137806" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-34970" lat="52.5263277" lon="13.31385" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-34982" lat="52.5264049" lon="13.3140023" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-35008" lat="52.5263216" lon="13.3138049" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-35010" lat="52.5263257" lon="13.3138357" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-35012" lat="52.5263859" lon="13.3138849" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-35040" lat="52.526402" lon="13.3139811" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-35052" lat="52.5262794" lon="13.3140395" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-35054" lat="52.5262778" lon="13.3140279" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-35156" lat="52.5263841" lon="13.3138466" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-35158" lat="52.5262771" lon="13.3137801" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-35160" lat="52.526278" lon="13.31404" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-35182" lat="52.5264088" lon="13.3140213" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-35208" lat="52.5263804" lon="13.3138194" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-35218" lat="52.5263254" lon="13.3137958" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-35266" lat="52.5263864" lon="13.3138643" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-35286" lat="52.5264038" lon="13.3139945" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-35330" lat="52.5263896" lon="13.3138773" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-35342" lat="52.5263974" lon="13.3139357" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-35344" lat="52.5263264" lon="13.3139662" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-35364" lat="52.5263384" lon="13.3140556" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-35390" lat="52.5263937" lon="13.3139185" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-35396" lat="52.5263373" lon="13.3138806" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-35406" lat="52.5263986" lon="13.3139556" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-35454" lat="52.5264064" lon="13.314014" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-35480" lat="52.5263916" lon="13.3139033" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-35524" lat="52.5263061" lon="13.3138146" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-35550" lat="52.5263807" lon="13.3138212" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-35624" lat="52.5263407" lon="13.3139473" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-35632" lat="52.5263755" lon="13.3138071" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-35642" lat="52.526328" lon="13.3139778" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-35694" lat="52.5262776" lon="13.3140261" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-35728" lat="52.5262829" lon="13.3140416" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-35798" lat="52.526378" lon="13.3138017" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-35806" lat="52.5263211" lon="13.3137984" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-35812" lat="52.5263236" lon="13.3139535" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-35860" lat="52.5263463" lon="13.3139823" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-35904" lat="52.5263749" lon="13.3138028" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-35924" lat="52.5263228" lon="13.3139388" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-35948" lat="52.5263644" lon="13.3137775" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-35952" lat="52.5263576" lon="13.314032" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-35958" lat="52.5264041" lon="13.3139963" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-35962" lat="52.5263269" lon="13.3138026" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-35980" lat="52.5263435" lon="13.3139615" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-36014" lat="52.5262804" lon="13.3140473" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-36020" lat="52.5263831" lon="13.3138641" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-36024" lat="52.5264099" lon="13.3140395" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-36086" lat="52.5262792" lon="13.3137896" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-36120" lat="52.5264015" lon="13.3139769" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-36138" lat="52.5263942" lon="13.3139227" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-36146" lat="52.5262784" lon="13.3137901" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-36156" lat="52.5263264" lon="13.3138003" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-36198" lat="52.5263429" lon="13.3139572" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-36212" lat="52.526413" lon="13.3140524" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-36254" lat="52.5263994" lon="13.3139616" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-36304" lat="52.526371" lon="13.3137735" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-36326" lat="52.526389" lon="13.3138838" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-36358" lat="52.5263511" lon="13.3140252" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-36360" lat="52.5264093" lon="13.3140352" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-36374" lat="52.5263329" lon="13.3140235" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-36384" lat="52.5263461" lon="13.3139809" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-36444" lat="52.5263099" lon="13.3138429" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-36474" lat="52.5263653" lon="13.313777" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-36488" lat="52.526277" lon="13.3140218" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-36494" lat="52.5263255" lon="13.313968" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-36522" lat="52.5263709" lon="13.3137724" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-36536" lat="52.526286" lon="13.3138236" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-36548" lat="52.5263051" lon="13.3138152" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-36562" lat="52.5262831" lon="13.314043" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-36566" lat="52.5263585" lon="13.3140391" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-36602" lat="52.5264067" lon="13.3140158" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-36620" lat="52.5263371" lon="13.3138792" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-36662" lat="52.5263582" lon="13.3140363" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-36682" lat="52.5263911" lon="13.313899" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-36904" lat="52.5263032" lon="13.3138053" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="door" v="yes"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-36906" lat="52.5262844" lon="13.3138166" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="door" v="yes"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-36908" lat="52.5262773" lon="13.3138031" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="door" v="yes"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-36910" lat="52.5263275" lon="13.3138426" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="door" v="yes"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-36912" lat="52.5263098" lon="13.3138505" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="door" v="yes"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-36914" lat="52.5263406" lon="13.3139399" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="door" v="yes"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-36916" lat="52.5263226" lon="13.3139464" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="door" v="yes"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-36918" lat="52.5263278" lon="13.3139853" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="door" v="yes"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-36920" lat="52.526351" lon="13.3140177" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="door" v="yes"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-36922" lat="52.5263562" lon="13.3140566" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="door" v="yes"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-36930" lat="52.5263189" lon="13.3137887" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="door" v="yes"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-37054" lat="52.5263137" lon="13.3138098" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-37078" lat="52.5263101" lon="13.3137941" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-37080" lat="52.5263185" lon="13.3138454" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-37082" lat="52.5263187" lon="13.3138473" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<node id="-37112" lat="52.5263115" lon="13.3138002" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</node>
+	<way id="-38482" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-36536"/>
+		<nd ref="-34550"/>
+		<nd ref="-31864"/>
+		<nd ref="-31862"/>
+		<nd ref="-36904"/>
+		<nd ref="-32542"/>
+		<nd ref="-31686"/>
+		<nd ref="-36086"/>
+		<nd ref="-36146"/>
+		<nd ref="-36536"/>
+		<tag k="level" v="2"/>
+		<tag k="male" v="yes"/>
+		<tag k="name" v="2059"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="room" v="toilet"/>
+	</way>
+	<way id="-38484" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-34952"/>
+		<nd ref="-35158"/>
+		<tag k="female" v="yes"/>
+		<tag k="level" v="2"/>
+		<tag k="name" v="2060"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="room" v="toilet"/>
+	</way>
+	<way id="-38524" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-36474"/>
+		<nd ref="-36304"/>
+		<nd ref="-36522"/>
+		<nd ref="-36474"/>
+		<tag k="level" v="2"/>
+		<tag k="name" v="2067"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="room" v="laboratory"/>
+	</way>
+	<way id="-38528" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-33446"/>
+		<nd ref="-32048"/>
+		<tag k="level" v="2"/>
+		<tag k="name" v="2058"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="room" v="printer"/>
+	</way>
+	<way id="-38532" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-32076"/>
+		<nd ref="-33880"/>
+		<nd ref="-36620"/>
+		<nd ref="-32692"/>
+		<nd ref="-31664"/>
+		<nd ref="-31950"/>
+		<nd ref="-32772"/>
+		<nd ref="-32770"/>
+		<nd ref="-31870"/>
+		<nd ref="-35632"/>
+		<nd ref="-35904"/>
+		<nd ref="-31388"/>
+		<nd ref="-34878"/>
+		<nd ref="-34876"/>
+		<nd ref="-35962"/>
+		<nd ref="-34406"/>
+		<nd ref="-32968"/>
+		<nd ref="-36910"/>
+		<nd ref="-30852"/>
+		<nd ref="-32076"/>
+		<tag k="level" v="2"/>
+		<tag k="max_workstations" v="4"/>
+		<tag k="name" v="2056"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="room" v="office"/>
+	</way>
+	<way id="-38534" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-36198"/>
+		<nd ref="-31822"/>
+		<nd ref="-31826"/>
+		<nd ref="-34618"/>
+		<nd ref="-34620"/>
+		<nd ref="-31974"/>
+		<nd ref="-35012"/>
+		<nd ref="-33786"/>
+		<nd ref="-31318"/>
+		<nd ref="-36020"/>
+		<nd ref="-35396"/>
+		<nd ref="-33882"/>
+		<nd ref="-32074"/>
+		<nd ref="-32876"/>
+		<nd ref="-36914"/>
+		<nd ref="-32550"/>
+		<nd ref="-36198"/>
+		<tag k="level" v="2"/>
+		<tag k="name" v="2054"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="room" v="office"/>
+	</way>
+	<way id="-38536" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-32986"/>
+		<nd ref="-35952"/>
+		<nd ref="-34770"/>
+		<nd ref="-34768"/>
+		<nd ref="-31896"/>
+		<nd ref="-33270"/>
+		<nd ref="-32792"/>
+		<nd ref="-33812"/>
+		<nd ref="-33334"/>
+		<nd ref="-30938"/>
+		<nd ref="-34282"/>
+		<nd ref="-33914"/>
+		<nd ref="-32184"/>
+		<nd ref="-32186"/>
+		<nd ref="-35860"/>
+		<nd ref="-32222"/>
+		<nd ref="-36920"/>
+		<nd ref="-34338"/>
+		<nd ref="-32986"/>
+		<tag k="level" v="2"/>
+		<tag k="name" v="2050"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="room" v="office"/>
+	</way>
+	<way id="-38542" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-31796"/>
+		<nd ref="-36548"/>
+		<nd ref="-32042"/>
+		<nd ref="-36912"/>
+		<nd ref="-32932"/>
+		<nd ref="-31796"/>
+		<tag k="level" v="2"/>
+		<tag k="max_workstations" v="3"/>
+		<tag k="name" v="2055"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="room" v="office"/>
+	</way>
+	<way id="-38544" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-31412"/>
+		<nd ref="-31658"/>
+		<nd ref="-31964"/>
+		<nd ref="-36916"/>
+		<nd ref="-35812"/>
+		<nd ref="-31412"/>
+		<tag k="level" v="2"/>
+		<tag k="max_workstations" v="2"/>
+		<tag k="name" v="2053"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="room" v="office"/>
+	</way>
+	<way id="-38546" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-33344"/>
+		<nd ref="-33346"/>
+		<nd ref="-34658"/>
+		<nd ref="-35052"/>
+		<nd ref="-35054"/>
+		<nd ref="-35694"/>
+		<nd ref="-33344"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-38548" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-35694"/>
+		<nd ref="-36488"/>
+		<nd ref="-31538"/>
+		<nd ref="-33344"/>
+		<nd ref="-35694"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-38550" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-36488"/>
+		<nd ref="-31930"/>
+		<nd ref="-31468"/>
+		<nd ref="-31538"/>
+		<nd ref="-36488"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-38552" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-31832"/>
+		<nd ref="-31470"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-38554" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-36374"/>
+		<nd ref="-35728"/>
+		<nd ref="-33346"/>
+		<nd ref="-33344"/>
+		<nd ref="-31538"/>
+		<nd ref="-31468"/>
+		<nd ref="-31470"/>
+		<nd ref="-31832"/>
+		<nd ref="-36494"/>
+		<nd ref="-31760"/>
+		<nd ref="-36918"/>
+		<nd ref="-34480"/>
+		<nd ref="-36374"/>
+		<tag k="level" v="2"/>
+		<tag k="name" v="2051"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="room" v="office"/>
+	</way>
+	<way id="-38900" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-35524"/>
+		<nd ref="-36444"/>
+		<nd ref="-32042"/>
+		<nd ref="-36548"/>
+		<nd ref="-35524"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39064" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-33488"/>
+		<nd ref="-31076"/>
+		<nd ref="-32392"/>
+		<nd ref="-31732"/>
+		<nd ref="-33488"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39066" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-31732"/>
+		<nd ref="-35798"/>
+		<nd ref="-31134"/>
+		<nd ref="-32606"/>
+		<nd ref="-32980"/>
+		<nd ref="-33488"/>
+		<nd ref="-31732"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39068" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-32606"/>
+		<nd ref="-35208"/>
+		<nd ref="-33948"/>
+		<nd ref="-32980"/>
+		<nd ref="-32606"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39070" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-35208"/>
+		<nd ref="-35550"/>
+		<nd ref="-34848"/>
+		<nd ref="-32164"/>
+		<nd ref="-32162"/>
+		<nd ref="-33948"/>
+		<nd ref="-35208"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39072" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-32164"/>
+		<nd ref="-31036"/>
+		<nd ref="-34558"/>
+		<nd ref="-32162"/>
+		<nd ref="-32164"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39074" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-31036"/>
+		<nd ref="-34092"/>
+		<nd ref="-32300"/>
+		<nd ref="-35156"/>
+		<nd ref="-34556"/>
+		<nd ref="-34558"/>
+		<nd ref="-31036"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39076" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-35156"/>
+		<nd ref="-33722"/>
+		<nd ref="-31088"/>
+		<nd ref="-34556"/>
+		<nd ref="-35156"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39078" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-33722"/>
+		<nd ref="-33382"/>
+		<nd ref="-35266"/>
+		<nd ref="-32892"/>
+		<nd ref="-34670"/>
+		<nd ref="-31088"/>
+		<nd ref="-33722"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39080" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-32892"/>
+		<nd ref="-32004"/>
+		<nd ref="-35330"/>
+		<nd ref="-34670"/>
+		<nd ref="-32892"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39082" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-32004"/>
+		<nd ref="-33784"/>
+		<nd ref="-36326"/>
+		<nd ref="-32006"/>
+		<nd ref="-31608"/>
+		<nd ref="-35330"/>
+		<nd ref="-32004"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39084" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-32006"/>
+		<nd ref="-31530"/>
+		<nd ref="-33224"/>
+		<nd ref="-31608"/>
+		<nd ref="-32006"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39086" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-31530"/>
+		<nd ref="-36682"/>
+		<nd ref="-35480"/>
+		<nd ref="-34518"/>
+		<nd ref="-33226"/>
+		<nd ref="-30794"/>
+		<nd ref="-33224"/>
+		<nd ref="-31530"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39088" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-34518"/>
+		<nd ref="-31922"/>
+		<nd ref="-33698"/>
+		<nd ref="-33226"/>
+		<nd ref="-34518"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39090" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-31922"/>
+		<nd ref="-35390"/>
+		<nd ref="-36138"/>
+		<nd ref="-31228"/>
+		<nd ref="-32726"/>
+		<nd ref="-33698"/>
+		<nd ref="-31922"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39092" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-31228"/>
+		<nd ref="-33452"/>
+		<nd ref="-35342"/>
+		<nd ref="-32726"/>
+		<nd ref="-31228"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39094" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-33452"/>
+		<nd ref="-32580"/>
+		<nd ref="-34380"/>
+		<nd ref="-30980"/>
+		<nd ref="-32108"/>
+		<nd ref="-35342"/>
+		<nd ref="-33452"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39096" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-30980"/>
+		<nd ref="-35406"/>
+		<nd ref="-31632"/>
+		<nd ref="-32108"/>
+		<nd ref="-30980"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39098" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-35406"/>
+		<nd ref="-34280"/>
+		<nd ref="-36254"/>
+		<nd ref="-32032"/>
+		<nd ref="-32030"/>
+		<nd ref="-31632"/>
+		<nd ref="-35406"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39100" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-32032"/>
+		<nd ref="-34198"/>
+		<nd ref="-31360"/>
+		<nd ref="-32030"/>
+		<nd ref="-32032"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39102" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-34198"/>
+		<nd ref="-36120"/>
+		<nd ref="-35040"/>
+		<nd ref="-33720"/>
+		<nd ref="-32388"/>
+		<nd ref="-31360"/>
+		<nd ref="-34198"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39104" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-33720"/>
+		<nd ref="-35286"/>
+		<nd ref="-32850"/>
+		<nd ref="-32388"/>
+		<nd ref="-33720"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39106" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-35286"/>
+		<nd ref="-35958"/>
+		<nd ref="-33268"/>
+		<nd ref="-34982"/>
+		<nd ref="-33754"/>
+		<nd ref="-32850"/>
+		<nd ref="-35286"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39108" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-34982"/>
+		<nd ref="-35454"/>
+		<nd ref="-31948"/>
+		<nd ref="-33754"/>
+		<nd ref="-34982"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39110" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-35454"/>
+		<nd ref="-36602"/>
+		<nd ref="-32328"/>
+		<nd ref="-34130"/>
+		<nd ref="-35182"/>
+		<nd ref="-31948"/>
+		<nd ref="-35454"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39112" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-34130"/>
+		<nd ref="-32218"/>
+		<nd ref="-34472"/>
+		<nd ref="-35182"/>
+		<nd ref="-34130"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39114" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-32218"/>
+		<nd ref="-36360"/>
+		<nd ref="-36024"/>
+		<nd ref="-31012"/>
+		<nd ref="-31858"/>
+		<nd ref="-34472"/>
+		<nd ref="-32218"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39116" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-32822"/>
+		<nd ref="-32362"/>
+		<nd ref="-36212"/>
+		<nd ref="-32822"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39118" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-34022"/>
+		<nd ref="-34870"/>
+		<nd ref="-32362"/>
+		<nd ref="-32822"/>
+		<nd ref="-31012"/>
+		<nd ref="-36024"/>
+		<nd ref="-34022"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39120" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-36024"/>
+		<nd ref="-36360"/>
+		<nd ref="-32686"/>
+		<nd ref="-34022"/>
+		<nd ref="-36024"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39122" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-36360"/>
+		<nd ref="-32218"/>
+		<nd ref="-34130"/>
+		<nd ref="-32328"/>
+		<nd ref="-31264"/>
+		<nd ref="-32686"/>
+		<nd ref="-36360"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39124" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-32328"/>
+		<nd ref="-36602"/>
+		<nd ref="-31896"/>
+		<nd ref="-34768"/>
+		<nd ref="-33002"/>
+		<nd ref="-31264"/>
+		<nd ref="-32328"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39126" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-36602"/>
+		<nd ref="-35454"/>
+		<nd ref="-34982"/>
+		<nd ref="-33268"/>
+		<nd ref="-33270"/>
+		<nd ref="-31896"/>
+		<nd ref="-36602"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39128" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-33268"/>
+		<nd ref="-35958"/>
+		<nd ref="-32792"/>
+		<nd ref="-33270"/>
+		<nd ref="-33268"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39130" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-35958"/>
+		<nd ref="-35286"/>
+		<nd ref="-33720"/>
+		<nd ref="-35040"/>
+		<nd ref="-33812"/>
+		<nd ref="-32792"/>
+		<nd ref="-35958"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39132" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-35040"/>
+		<nd ref="-36120"/>
+		<nd ref="-33334"/>
+		<nd ref="-33812"/>
+		<nd ref="-35040"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39134" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-36120"/>
+		<nd ref="-34198"/>
+		<nd ref="-32032"/>
+		<nd ref="-36254"/>
+		<nd ref="-30938"/>
+		<nd ref="-33334"/>
+		<nd ref="-36120"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39136" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-36254"/>
+		<nd ref="-34280"/>
+		<nd ref="-34282"/>
+		<nd ref="-30938"/>
+		<nd ref="-36254"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39138" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-34280"/>
+		<nd ref="-35406"/>
+		<nd ref="-30980"/>
+		<nd ref="-34380"/>
+		<nd ref="-33914"/>
+		<nd ref="-34282"/>
+		<nd ref="-34280"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39140" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-34380"/>
+		<nd ref="-32580"/>
+		<nd ref="-31822"/>
+		<nd ref="-33914"/>
+		<nd ref="-34380"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39142" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-32580"/>
+		<nd ref="-33452"/>
+		<nd ref="-31228"/>
+		<nd ref="-36138"/>
+		<nd ref="-31826"/>
+		<nd ref="-31822"/>
+		<nd ref="-32580"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39144" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-36138"/>
+		<nd ref="-35390"/>
+		<nd ref="-34618"/>
+		<nd ref="-31826"/>
+		<nd ref="-36138"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39146" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-35390"/>
+		<nd ref="-31922"/>
+		<nd ref="-34518"/>
+		<nd ref="-35480"/>
+		<nd ref="-34620"/>
+		<nd ref="-34618"/>
+		<nd ref="-35390"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39148" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-35480"/>
+		<nd ref="-36682"/>
+		<nd ref="-31974"/>
+		<nd ref="-34620"/>
+		<nd ref="-35480"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39150" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-36682"/>
+		<nd ref="-31530"/>
+		<nd ref="-32006"/>
+		<nd ref="-36326"/>
+		<nd ref="-35012"/>
+		<nd ref="-31974"/>
+		<nd ref="-36682"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39152" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-36326"/>
+		<nd ref="-33784"/>
+		<nd ref="-33786"/>
+		<nd ref="-35012"/>
+		<nd ref="-36326"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39154" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-33784"/>
+		<nd ref="-32004"/>
+		<nd ref="-32892"/>
+		<nd ref="-35266"/>
+		<nd ref="-31318"/>
+		<nd ref="-33786"/>
+		<nd ref="-33784"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39156" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-35266"/>
+		<nd ref="-33382"/>
+		<nd ref="-31664"/>
+		<nd ref="-32692"/>
+		<nd ref="-36020"/>
+		<nd ref="-31318"/>
+		<nd ref="-35266"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39158" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-33382"/>
+		<nd ref="-33722"/>
+		<nd ref="-35156"/>
+		<nd ref="-32300"/>
+		<nd ref="-31950"/>
+		<nd ref="-31664"/>
+		<nd ref="-33382"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39160" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-32300"/>
+		<nd ref="-34092"/>
+		<nd ref="-32772"/>
+		<nd ref="-31950"/>
+		<nd ref="-32300"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39162" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-34092"/>
+		<nd ref="-31036"/>
+		<nd ref="-32164"/>
+		<nd ref="-34848"/>
+		<nd ref="-32770"/>
+		<nd ref="-32772"/>
+		<nd ref="-34092"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39164" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-34848"/>
+		<nd ref="-35550"/>
+		<nd ref="-31870"/>
+		<nd ref="-32770"/>
+		<nd ref="-34848"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39166" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-35550"/>
+		<nd ref="-35208"/>
+		<nd ref="-32606"/>
+		<nd ref="-31134"/>
+		<nd ref="-35632"/>
+		<nd ref="-31870"/>
+		<nd ref="-35550"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39168" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-31134"/>
+		<nd ref="-35798"/>
+		<nd ref="-35904"/>
+		<nd ref="-35632"/>
+		<nd ref="-31134"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39170" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-31012"/>
+		<nd ref="-32822"/>
+		<nd ref="-36212"/>
+		<nd ref="-31858"/>
+		<nd ref="-31012"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39172" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-36522"/>
+		<nd ref="-34044"/>
+		<nd ref="-33578"/>
+		<nd ref="-34500"/>
+		<nd ref="-34498"/>
+		<nd ref="-31076"/>
+		<nd ref="-32392"/>
+		<nd ref="-30830"/>
+		<nd ref="-31388"/>
+		<nd ref="-34878"/>
+		<nd ref="-36304"/>
+		<nd ref="-36522"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39174" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-35798"/>
+		<nd ref="-31732"/>
+		<nd ref="-32392"/>
+		<nd ref="-30830"/>
+		<nd ref="-31388"/>
+		<nd ref="-35904"/>
+		<nd ref="-35798"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39204" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-34500"/>
+		<nd ref="-33578"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39206" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-33578"/>
+		<nd ref="-34044"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39320" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-31458"/>
+		<nd ref="-36014"/>
+		<nd ref="-31644"/>
+		<nd ref="-31646"/>
+		<nd ref="-31458"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39322" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-31644"/>
+		<nd ref="-34658"/>
+		<nd ref="-33346"/>
+		<nd ref="-35728"/>
+		<nd ref="-36562"/>
+		<nd ref="-31646"/>
+		<nd ref="-31644"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39324" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-31470"/>
+		<nd ref="-31468"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39354" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-33232"/>
+		<nd ref="-32734"/>
+		<nd ref="-35160"/>
+		<nd ref="-33534"/>
+		<nd ref="-31458"/>
+		<nd ref="-36014"/>
+		<nd ref="-31644"/>
+		<nd ref="-34658"/>
+		<nd ref="-35052"/>
+		<nd ref="-35054"/>
+		<nd ref="-35694"/>
+		<nd ref="-36488"/>
+		<nd ref="-31930"/>
+		<nd ref="-33232"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39912" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-31014"/>
+		<nd ref="-36562"/>
+		<nd ref="-35728"/>
+		<nd ref="-36374"/>
+		<nd ref="-31014"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39914" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-34480"/>
+		<nd ref="-33530"/>
+		<nd ref="-35364"/>
+		<nd ref="-31332"/>
+		<nd ref="-31014"/>
+		<nd ref="-36374"/>
+		<nd ref="-34480"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39916" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-33018"/>
+		<nd ref="-35344"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39918" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-36494"/>
+		<nd ref="-31760"/>
+		<nd ref="-35642"/>
+		<nd ref="-33018"/>
+		<nd ref="-36494"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39942" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-32362"/>
+		<nd ref="-34870"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39948" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-34770"/>
+		<nd ref="-36662"/>
+		<nd ref="-33002"/>
+		<nd ref="-34768"/>
+		<nd ref="-34770"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39950" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-32986"/>
+		<nd ref="-35952"/>
+		<nd ref="-34770"/>
+		<nd ref="-36662"/>
+		<nd ref="-36566"/>
+		<nd ref="-32988"/>
+		<nd ref="-32986"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39952" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-36358"/>
+		<nd ref="-31386"/>
+		<nd ref="-32506"/>
+		<nd ref="-32988"/>
+		<nd ref="-32986"/>
+		<nd ref="-34338"/>
+		<nd ref="-36358"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39954" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-35980"/>
+		<nd ref="-36384"/>
+		<nd ref="-34030"/>
+		<nd ref="-33660"/>
+		<nd ref="-32222"/>
+		<nd ref="-35860"/>
+		<nd ref="-32186"/>
+		<nd ref="-32184"/>
+		<nd ref="-35980"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39956" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-31820"/>
+		<nd ref="-31574"/>
+		<nd ref="-32318"/>
+		<nd ref="-35980"/>
+		<nd ref="-32184"/>
+		<nd ref="-33914"/>
+		<nd ref="-31822"/>
+		<nd ref="-36198"/>
+		<nd ref="-31820"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39958" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-35624"/>
+		<nd ref="-31820"/>
+		<nd ref="-36198"/>
+		<nd ref="-32550"/>
+		<nd ref="-35624"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39960" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-36620"/>
+		<nd ref="-32692"/>
+		<nd ref="-36020"/>
+		<nd ref="-35396"/>
+		<nd ref="-36620"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39962" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-32076"/>
+		<nd ref="-33880"/>
+		<nd ref="-36620"/>
+		<nd ref="-35396"/>
+		<nd ref="-33882"/>
+		<nd ref="-32074"/>
+		<nd ref="-32076"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39964" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-30852"/>
+		<nd ref="-32076"/>
+		<nd ref="-32074"/>
+		<nd ref="-32876"/>
+		<nd ref="-32874"/>
+		<nd ref="-34970"/>
+		<nd ref="-30852"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39966" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-32932"/>
+		<nd ref="-31796"/>
+		<nd ref="-31658"/>
+		<nd ref="-31964"/>
+		<nd ref="-35924"/>
+		<nd ref="-34112"/>
+		<nd ref="-32932"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39992" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-34876"/>
+		<nd ref="-34878"/>
+		<nd ref="-36304"/>
+		<nd ref="-36474"/>
+		<nd ref="-35948"/>
+		<nd ref="-36156"/>
+		<nd ref="-34876"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39994" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-35806"/>
+		<nd ref="-35218"/>
+		<nd ref="-36156"/>
+		<nd ref="-34876"/>
+		<nd ref="-35962"/>
+		<nd ref="-34406"/>
+		<nd ref="-33302"/>
+		<nd ref="-35806"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39996" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-31628"/>
+		<nd ref="-35806"/>
+		<nd ref="-33302"/>
+		<nd ref="-34406"/>
+		<nd ref="-32968"/>
+		<nd ref="-35010"/>
+		<nd ref="-35008"/>
+		<nd ref="-34278"/>
+		<nd ref="-31628"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-39998" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-33446"/>
+		<nd ref="-32048"/>
+		<nd ref="-31316"/>
+		<nd ref="-33330"/>
+		<nd ref="-32104"/>
+		<nd ref="-33448"/>
+		<nd ref="-33446"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-40004" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-32542"/>
+		<nd ref="-33422"/>
+		<nd ref="-34170"/>
+		<nd ref="-31686"/>
+		<nd ref="-32542"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-40006" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-32094"/>
+		<nd ref="-33616"/>
+		<nd ref="-31862"/>
+		<nd ref="-31864"/>
+		<nd ref="-32094"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-40008" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-36536"/>
+		<nd ref="-30962"/>
+		<nd ref="-34548"/>
+		<nd ref="-34550"/>
+		<nd ref="-36536"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-40010" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-36146"/>
+		<nd ref="-33524"/>
+		<nd ref="-33144"/>
+		<nd ref="-34446"/>
+		<nd ref="-32182"/>
+		<nd ref="-34784"/>
+		<nd ref="-31756"/>
+		<nd ref="-36086"/>
+		<nd ref="-36146"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-40012" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-31686"/>
+		<nd ref="-34170"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-40014" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-35158"/>
+		<nd ref="-34952"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-40026" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-36536"/>
+		<nd ref="-34550"/>
+		<nd ref="-31864"/>
+		<nd ref="-32094"/>
+		<nd ref="-34834"/>
+		<nd ref="-35524"/>
+		<nd ref="-36548"/>
+		<nd ref="-36536"/>
+		<tag k="barrier" v="wall"/>
+		<tag k="colour" v="#187102"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+		<tag k="width" v="0.01"/>
+	</way>
+	<way id="-40610" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-32542"/>
+		<nd ref="-36904"/>
+		<nd ref="-31862"/>
+		<tag k="door" v="yes"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</way>
+	<way id="-40612" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-34784"/>
+		<nd ref="-36906"/>
+		<nd ref="-30962"/>
+		<tag k="door" v="yes"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</way>
+	<way id="-40614" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-33144"/>
+		<nd ref="-36908"/>
+		<tag k="door" v="yes"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</way>
+	<way id="-40616" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-32968"/>
+		<nd ref="-36910"/>
+		<nd ref="-30852"/>
+		<tag k="door" v="yes"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</way>
+	<way id="-40618" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-32042"/>
+		<nd ref="-36912"/>
+		<nd ref="-32932"/>
+		<tag k="door" v="yes"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</way>
+	<way id="-40620" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-32876"/>
+		<nd ref="-36914"/>
+		<nd ref="-32550"/>
+		<tag k="door" v="yes"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</way>
+	<way id="-40622" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-31964"/>
+		<nd ref="-36916"/>
+		<nd ref="-35812"/>
+		<tag k="door" v="yes"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</way>
+	<way id="-40624" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-31760"/>
+		<nd ref="-36918"/>
+		<nd ref="-34480"/>
+		<tag k="door" v="yes"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</way>
+	<way id="-40626" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-32222"/>
+		<nd ref="-36920"/>
+		<nd ref="-34338"/>
+		<tag k="door" v="yes"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</way>
+	<way id="-40628" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-32506"/>
+		<nd ref="-36922"/>
+		<tag k="door" v="yes"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</way>
+	<way id="-40636" version="1" timestamp="1970-01-01T00:00:01Z" changeset="1">
+		<nd ref="-33330"/>
+		<nd ref="-36930"/>
+		<nd ref="-31628"/>
+		<tag k="door" v="yes"/>
+		<tag k="level" v="2"/>
+		<tag k="ref" v="491058905"/>
+	</way>
+</osm>
